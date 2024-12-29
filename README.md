@@ -1,4 +1,4 @@
-# INVENTRY_MANAGEMENT_SYSTEM
+# BRAINWAVE_INTERN_INVENTRY_MANAGEMENT_SYSTEM_TASK_2
 Inventory Management System is a python based project that uses `tkinter` modules for Graphical User Interface(GUI)
 
 ## Author: AYUSH SHAH
