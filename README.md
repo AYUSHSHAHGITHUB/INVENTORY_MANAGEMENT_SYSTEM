@@ -14,28 +14,28 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 7. `create_db.py`
 8. `billing.py`
 
-### 1. dashboard.py
+### 1. DASHBOARD.PY
 - This script is the dashboard of Inventory Management System containing buttons, images and labels and timing.
 - The screen shows the options for `Employee`, `Supplier`, `Category`, `Products` and `Sales` to perform CRUD operations.
 - This screen also updates timely as you perform operations on any of these Labels.
 
 ![alt text](DASHBOARD.PY.png)
 
-### 2. employee.py
+### 2. EMPLOYEE.PY
 - This screen collects and shows the complete data regarding an `employee`.
 - Buttons are functionalised accordingly.
 - You can search an employee by its `email`, `name` or `contact`.
 
 ![alt text](EMPLOYEE.PY.png)
 
-### 3. supplier.py
+### 3. SUPPLIER.PY
 - This screen collects and shows the complete data regarding `suppliers`.
 - Buttons are functionalised accordingly.
 - You can search a particular supplier details by `invoice no`.
 
 ![alt text](SUPPLIER.PY.png)
 
-### 4. product.py
+### 4. PRODUCT.PY
 - This screen collects and shows the complete data about the `product`.
 - It also ensures the `availability` of the product
 - Buttons are functionalised accordingly.
@@ -43,13 +43,13 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 
 ![alt text](PRODUCT.PY.png)
 
-### 5. category.py
+### 5. CATEGORY.PY
 - This screen collects and shows the information about the category of the product. LIKE:- If Product name is `IPhone` then its category is `Phone`.
 - This screen contains 2 buttons namely `add` and `delete`. These buttons are functionalised accordingly.
 
 ![alt text](CATEGORY.PY.png)
 
-### 6. sales.py
+### 6. SALES.PY
 - This screen stores and shows the bills by an `invoice no`.
 - Buttons are functionalised accordingly.
 
@@ -59,7 +59,7 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - This is the database file for all the tables.
 - You have to run this file `first` before running the `dashboard.py` file otherwise it will throw an error.
 
-### 8. billing.py
+### 8. BILLING.PY
 - This screen contains all the billing part.
 - This screen contains information regarding the `products`, `customers`, `the products they are buying`, `billing structure`, `price of product`, `discout on the products`.
 - This screen also contains a `calculator` to calculate the total amount.
